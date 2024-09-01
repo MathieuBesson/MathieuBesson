@@ -31,7 +31,7 @@ Sys : ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=bl
 
 ### Where to find me
 
-[![Website](https://img.shields.io/badge/my--website-342784.svg?&style=for-the-badge)](https://mathieu-besson.netlify.app)
+[![Website](https://img.shields.io/badge/my--website-342784.svg?&style=for-the-badge)](https://mathieu-besson.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieubesson/)
 [![Wiki](https://img.shields.io/badge/wiki-4B4B4B.svg?&style=for-the-badge&logo=wikipedia&logoColor=white)](https://doc.mathieu-besson.fr)
 
