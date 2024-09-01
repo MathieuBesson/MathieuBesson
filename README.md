@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Mathieu !
 
-Welcome to my page!
+Welcome to my page !
+
 I'm Mathieu, Back-end developer from Rennes, France.
 
 ### My stack
