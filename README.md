@@ -27,12 +27,13 @@ Sys : ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=bl
 ![Vagrant](https://img.shields.io/badge/Vagrant-844A9B?logo=vagrant&logoColor=white&labelColor=844A9B)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&labelColor=D22128)
 
-
-
 ### Where to find me
 
 [![Website](https://img.shields.io/badge/my--website-342784.svg?&style=for-the-badge)](https://mathieu-besson.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieubesson/)
 [![Wiki](https://img.shields.io/badge/wiki-4B4B4B.svg?&style=for-the-badge&logo=wikipedia&logoColor=white)](https://doc.mathieu-besson.fr)
+
+### Fun fact
+
 [![](https://visitcount.itsvg.in/api?id=MathieuBesson&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
