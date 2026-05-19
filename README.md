@@ -39,12 +39,6 @@
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MathieuBesson&show_icons=true&hide_border=true&theme=default&hide=stars&count_private=true)
-
----
-
 ### Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathieubesson/)
